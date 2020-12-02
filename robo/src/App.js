@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import Scroll from './components/scroll'
 import Cards from './components/CardList';
-import { Robots } from './components/robots'
 import SearchBox from './components/Searchbox'
 
 
